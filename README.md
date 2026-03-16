@@ -1,16 +1,16 @@
 # ⚡ DinzBaileys | Advanced WhatsApp API
 
 <p align="center">
-  <img src="https://i.ibb.co/KpyFG40q/image.jpg" alt="DinzBaileys Thumbnail" width="100%"/>
+  <img src="https://files.catbox.moe/rycudx.jpg" alt="H3x Thumbnail" width="100%"/>
 </p>
 
 ```javascript
 /*
-  © 2026 DinzID Core Development. All Rights Reserved.
+  © 2026 Dharzy Core Development. All Rights Reserved.
 
   Type: WhatsApp API Library (Baileys Optimized Fork)
-  Creator: DinzID
-  Repository: github:dinzid04/DinzBaileys
+  Creator: dharzy
+  Repository: github:sukixratz:bail
 
   RESTRICTIONS & LICENSE:
   - This is an optimized WhatsApp API library built upon Baileys.
@@ -26,7 +26,7 @@
 
 ## ⚡ Overview
 
-**DinzBaileys** adalah *library/wrapper* WhatsApp Multi-Device API yang telah dimodifikasi dan dioptimasi secara mendalam. Didesain khusus untuk para *developer* yang membutuhkan **stabilitas tinggi, konsumsi RAM yang rendah, dan konektivitas tanpa batas**. 
+**DHARZY BAIL** adalah *library/wrapper* WhatsApp Multi-Device API yang telah dimodifikasi dan dioptimasi secara mendalam. Didesain khusus untuk para *developer* yang membutuhkan **stabilitas tinggi, konsumsi RAM yang rendah, dan konektivitas tanpa batas**. 
 
 Baik kamu sedang membangun sistem *Customer Service* otomatis, bot AI yang kompleks, maupun *Broadcast Engine*, DinzBaileys menyediakan pondasi *engine* terbaik yang siap pakai.
 
